@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Estuve
 
-![]({{site.url}}/images/lock.jpg)
+![](/images/lock.jpg)
