@@ -31,12 +31,7 @@ github_username:  jekyll
 
 # Build settings
 theme:
-  name: material
-  palette:
-      scheme: slate
-      primary: black
-      accent: indigo
-  font:
+  name: Moonwalk
     text: Lora
 
 # Exclude from processing.
