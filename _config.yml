@@ -50,3 +50,15 @@ github_username:  AGR
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+nav:
+    - Principal: index.md
+    - Acerca de: about.md
+    - Practica 1.1: 1-1.md
+    - Practica 1.2: 1-2.md
+
+theme:
+  name: material
+  palette:
+      scheme: slate
+      primary: black
+      accent: indigo
